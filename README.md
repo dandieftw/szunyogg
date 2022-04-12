@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @szunyogg
+- 👀 I’m interested in Linux and open source software
+- 🌱 I’m currently learning Lua and Bash Scripting
+--->
